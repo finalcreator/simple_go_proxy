@@ -1,1 +1,4 @@
-**/server.exe
+**/*.exe
+**/*.crt
+**/*.key
+**/*.csr
